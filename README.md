@@ -1,1 +1,1 @@
-# Heart-Attack-Prediction by Ajeet
+# Heart-Attack-Prediction 
